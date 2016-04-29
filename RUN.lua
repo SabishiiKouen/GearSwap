@@ -53,7 +53,7 @@ function job_setup()
 	blue_magic_maps.Cure = S{
         'Wild Carrot'
     }
-	blue_magic_maps.Buff = S{
+	blue_magic_maps.Buffs = S{
 		'Cocoon', 'Refueling'
 	}
 	
@@ -162,10 +162,10 @@ function init_gear_sets()
     sets.midcast['Phalanx'] = set_combine(sets.midcast['Enhancing Magic'], {head="Futhark Bandeau +1"})
     sets.midcast['Regen'] = {neck="Incanter's torque", head="Runeist Bandeau +1", legs="Futhark Trousers +1"}
     sets.midcast['Stoneskin'] = {neck="Incanter's torque", waist="Siegel Sash"}
-    sets.midcast.Cure = {neck="Colossus's Torque", hands="Buremte Gloves", ring1="Ephedra Ring", feet="Futhark Boots +1"}
+    sets.midcast.Cure = {neck="Phalaina Locket", hands="Buremte Gloves", ring1="Ephedra Ring", feet="Futhark Boots +1"}
 	
 	sets.midcast['Blue Magic'] = {}
-	sets.midcast['Blue Magic'].Enmity = sets.Enmity
+	sets.midcast['Blue Magic'].Enmity = sets.enmity
 	sets.midcast['Blue Magic'].Cure = sets.midcast.Cure
 	sets.midcast['Blue Magic'].Buffs = sets.midcast['Enhancing Magic']
 	
