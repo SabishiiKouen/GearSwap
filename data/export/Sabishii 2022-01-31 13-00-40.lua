@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Staunch Tathlum +1",
+    head="Turms Cap +1",
+    body="Runeist's Coat +3",
+    hands="Regal Gauntlets",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Ahosi Leggings",
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Ethereal Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Defending Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Ogma's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+5','"Store TP"+10','Damage taken-5%',}},
+}

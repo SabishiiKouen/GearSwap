@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Chango", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Staunch Tathlum +1",
+    head={ name="Valorous Mask", augments={'Attack+20','"Store TP"+7','Accuracy+12',}},
+    body="Sakpata's Plate",
+    hands={ name="Odyssean Gauntlets", augments={'CHR+8','Weapon skill damage +5%','Accuracy+19 Attack+19',}},
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Eabani Earring",
+    right_ear="Infused Earring",
+    left_ring="Karieyh Ring +1",
+    right_ring="Defending Ring",
+    back={ name="Cichol's Mantle", augments={'DEX+10','Accuracy+20 Attack+20','Accuracy+8','"Dbl.Atk."+10','Damage taken-5%',}},
+}

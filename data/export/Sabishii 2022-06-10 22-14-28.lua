@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Perun +1", augments={'Path: A',}},
+    sub="Kustawi +1",
+    range={ name="Annihilator", augments={'Path: A',}},
+    ammo="Chrono Bullet",
+    head="Malignance Chapeau",
+    body={ name="Herculean Vest", augments={'Rng.Acc.+22 Rng.Atk.+22','Weapon skill damage +4%','Rng.Atk.+11',}},
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Flume Belt",
+    left_ear="Odnowa Earring +1",
+    right_ear="Infused Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Defending Ring",
+    back={ name="Belenus's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Store TP"+10','Damage taken-5%',}},
+}

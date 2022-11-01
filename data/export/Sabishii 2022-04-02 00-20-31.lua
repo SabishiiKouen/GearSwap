@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Kustawi +1",
+    range={ name="Fomalhaut", augments={'Path: A',}},
+    ammo="Chrono Bullet",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Ethereal Earring",
+    right_ear="Infused Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Karieyh Ring +1",
+    back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','Weapon skill damage +10%',}},
+}

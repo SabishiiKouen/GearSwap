@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Crocea Mors", augments={'Path: C',}},
+    sub="Ammurapi Shield",
+    ammo="Homiliary",
+    head={ name="Telchine Cap", augments={'Mag. Evasion+24','Potency of "Cure" effect received+5%','Enh. Mag. eff. dur. +5',}},
+    body={ name="Taeon Tabard", augments={'Accuracy+20 Attack+20','Potency of "Cure" effect received+7%','Phalanx +3',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Acc.+15','"Cure" potency +8%','"Regen" potency+3',}},
+    legs="Gyve Trousers",
+    feet={ name="Taeon Boots", augments={'Accuracy+24','Potency of "Cure" effect received+4%','Phalanx +3',}},
+    neck="Phalaina Locket",
+    waist="Gishdubar Sash",
+    left_ear="Etiolation Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Kunaji Ring",
+    right_ring="Lebeche Ring",
+    back="Solemnity Cape",
+}

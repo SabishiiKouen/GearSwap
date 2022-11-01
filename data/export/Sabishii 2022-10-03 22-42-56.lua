@@ -1,0 +1,17 @@
+sets.exported={
+    main="Dojikiri Yasutsuna",
+    sub="Utu Grip",
+    ammo="Aurgelmir Orb +1",
+    head="Mpaca's Cap",
+    body="Kasuga Domaru +2",
+    hands="Mpaca's Gloves",
+    legs="Kasuga Haidate +2",
+    feet="Mpaca's Boots",
+    neck={ name="Sam. Nodowa +1", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Dedition Earring",
+    right_ear="Telos Earring",
+    left_ring="Chirich Ring +1",
+    right_ring="Niqmaddu Ring",
+    back={ name="Smertrios's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Store TP"+10','Phys. dmg. taken-10%',}},
+}

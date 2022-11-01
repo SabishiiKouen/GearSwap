@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Aurgelmir Orb +1",
+    head={ name="Fu. Bandeau +3", augments={'Enhances "Battuta" effect',}},
+    body={ name="Taeon Tabard", augments={'Accuracy+20 Attack+20','Potency of "Cure" effect received+7%','Phalanx +3',}},
+    hands="Regal Gauntlets",
+    legs={ name="Taeon Tights", augments={'Potency of "Cure" effect received+7%','Phalanx +2',}},
+    feet={ name="Herculean Boots", augments={'Enmity+2','DEX+6','Phalanx +4','Accuracy+16 Attack+16','Mag. Acc.+14 "Mag.Atk.Bns."+14',}},
+    neck="Sacro Gorget",
+    waist="Flume Belt",
+    left_ear="Cessance Earring",
+    right_ear="Telos Earring",
+    left_ring="Chirich Ring +1",
+    right_ring="Moonbeam Ring",
+    back={ name="Ogma's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+5','"Store TP"+10','Damage taken-5%',}},
+}

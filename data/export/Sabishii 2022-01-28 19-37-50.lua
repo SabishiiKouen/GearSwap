@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Musa", augments={'Path: C',}},
+    ammo="Staunch Tathlum +1",
+    head="Arbatel Bonnet +1",
+    body={ name="Telchine Chas.", augments={'Mag. Acc.+9','"Cure" potency +7%','Enh. Mag. eff. dur. +5',}},
+    hands={ name="Telchine Gloves", augments={'Enh. Mag. eff. dur. +10',}},
+    legs={ name="Telchine Braconi", augments={'Mag. Acc.+6 "Mag.Atk.Bns."+6','Potency of "Cure" effect received+4%','Enh. Mag. eff. dur. +9',}},
+    feet={ name="Telchine Pigaches", augments={'"Mag.Atk.Bns."+8','Potency of "Cure" effect received+5%','Enh. Mag. eff. dur. +7',}},
+    neck="Incanter's Torque",
+    waist="Embla Sash",
+    left_ear="Regal Earring",
+    right_ear="Mendi. Earring",
+    left_ring="Kunaji Ring",
+    right_ring="Lebeche Ring",
+    back={ name="Lugh's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Seeth. Bomblet +1",
+    head="Agwu's Cap",
+    body="Agwu's Robe",
+    hands="Agwu's Gages",
+    legs="Agwu's Slops",
+    feet="Agwu's Pigaches",
+    neck="Combatant's Torque",
+    waist="Orpheus's Sash",
+    left_ear="Ethereal Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Shiva Ring +1",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Ogma's Cape", augments={'Enmity+10',}},
+}

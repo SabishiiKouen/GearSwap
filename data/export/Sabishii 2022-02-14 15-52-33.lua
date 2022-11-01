@@ -1,0 +1,17 @@
+sets.exported={
+    main="Lycurgos",
+    sub="Utu Grip",
+    ammo="Staunch Tathlum +1",
+    head={ name="Valorous Mask", augments={'Attack+20','"Store TP"+7','Accuracy+12',}},
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs={ name="Odyssean Cuisses", augments={'Weapon skill damage +5%','STR+7','Attack+10',}},
+    feet="Sakpata's Leggings",
+    neck="Sanctity Necklace",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Ishvara Earring",
+    right_ear="Infused Earring",
+    left_ring="Niqmaddu Ring",
+    right_ring="Defending Ring",
+    back={ name="Mecisto. Mantle", augments={'Cap. Point+50%','HP+25','Attack+1','DEF+5',}},
+}

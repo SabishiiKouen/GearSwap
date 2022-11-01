@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Sapience Orb",
+    head={ name="Amalric Coif", augments={'MP+60','Mag. Acc.+15','"Mag.Atk.Bns."+15',}},
+    body="Zendik Robe",
+    hands="Agwu's Gages",
+    legs="Assid. Pants +1",
+    feet={ name="Merlinic Crackows", augments={'Mag. Acc.+17 "Mag.Atk.Bns."+17','"Fast Cast"+6','CHR+9','Mag. Acc.+10','"Mag.Atk.Bns."+7',}},
+    neck="Voltsurge Torque",
+    waist="Embla Sash",
+    left_ear="Malignance Earring",
+    right_ear="Enchntr. Earring +1",
+    left_ring="Kishar Ring",
+    right_ring="Lebeche Ring",
+    back={ name="Lugh's Cape", augments={'"Fast Cast"+10',}},
+}

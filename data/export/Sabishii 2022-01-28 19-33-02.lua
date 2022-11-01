@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Staunch Tathlum +1",
+    head={ name="Telchine Cap", augments={'Mag. Evasion+24','Potency of "Cure" effect received+5%','Enh. Mag. eff. dur. +5',}},
+    body="Vrikodara Jupon",
+    hands={ name="Telchine Gloves", augments={'Mag. Acc.+15','"Cure" potency +8%','"Regen" potency+3',}},
+    legs="Acad. Pants +3",
+    feet={ name="Telchine Pigaches", augments={'"Mag.Atk.Bns."+8','Potency of "Cure" effect received+5%','Enh. Mag. eff. dur. +7',}},
+    neck="Phalaina Locket",
+    waist="Gishdubar Sash",
+    left_ear="Regal Earring",
+    right_ear="Mendi. Earring",
+    left_ring="Kunaji Ring",
+    right_ring="Lebeche Ring",
+    back="Solemnity Cape",
+}

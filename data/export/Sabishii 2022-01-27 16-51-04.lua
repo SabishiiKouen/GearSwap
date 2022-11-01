@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Nusku Shield",
+    range={ name="Compensator", augments={'DMG:+15','AGI+15','Rng.Acc.+15',}},
+    ammo="Chrono Bullet",
+    head={ name="Lanun Tricorne +3", augments={'Enhances "Winning Streak" effect',}},
+    body={ name="Lanun Frac +3", augments={'Enhances "Loaded Deck" effect',}},
+    hands="Chasseur's Gants +1",
+    legs={ name="Herculean Trousers", augments={'Accuracy+13','Weapon skill damage +4%','DEX+1','Attack+11',}},
+    feet="Meg. Jam. +2",
+    neck="Regal Necklace",
+    waist="Flume Belt",
+    left_ear="Enervating Earring",
+    right_ear="Telos Earring",
+    left_ring="Luzaf's Ring",
+    right_ring="Karieyh Ring +1",
+    back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','Weapon skill damage +10%',}},
+}

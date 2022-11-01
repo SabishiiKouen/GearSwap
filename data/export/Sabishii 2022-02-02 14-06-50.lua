@@ -1,0 +1,15 @@
+sets.exported={
+    sub="Nusku Shield",
+    range={ name="Fomalhaut", augments={'Path: A',}},
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Nyame Mail",
+    hands={ name="Adhemar Wrist. +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    legs="Nyame Flanchard",
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Flume Belt",
+    left_ear="Odnowa Earring +1",
+    right_ear="Infused Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Defending Ring",
+}

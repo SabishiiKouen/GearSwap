@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head={ name="Bagua Galero +3", augments={'Enhances "Primeval Zeal" effect',}},
+    body={ name="Amalric Doublet +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    hands={ name="Amalric Gages +1", augments={'INT+12','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    legs={ name="Bagua Pants +3", augments={'Enhances "Mending Halation" effect',}},
+    feet={ name="Bagua Sandals +3", augments={'Enhances "Radial Arcana" effect',}},
+    neck="Sanctity Necklace",
+    waist="Yamabuki-no-Obi",
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Nantosuelta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+10','Pet: "Regen"+10','Pet: "Regen"+5',}},
+}

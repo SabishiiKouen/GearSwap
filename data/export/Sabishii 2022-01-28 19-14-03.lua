@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head="Acad. Mortar. +2",
+    body={ name="Peda. Gown +3", augments={'Enhances "Enlightenment" effect',}},
+    hands="Acad. Bracers +2",
+    legs="Acad. Pants +3",
+    feet="Acad. Loafers +2",
+    neck={ name="Argute Stole +1", augments={'Path: A',}},
+    waist={ name="Obstin. Sash", augments={'Path: A',}},
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Lugh's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

@@ -1,0 +1,18 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    range={ name="Anarchy +2", augments={'Delay:+60','TP Bonus +1000',}},
+    ammo="Chrono Bullet",
+    head={ name="Adhemar Bonnet +1", augments={'STR+12','DEX+12','Attack+20',}},
+    body={ name="Adhemar Jacket +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    hands={ name="Adhemar Wrist. +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    legs="Mummu Kecks +2",
+    feet="Mummu Gamash. +2",
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    right_ear="Mache Earring +1",
+    left_ring="Hetairoi Ring",
+    right_ring="Mummu Ring",
+    back={ name="Camulus's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Store TP"+10','Damage taken-5%',}},
+}

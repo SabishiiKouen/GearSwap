@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Knobkierrie",
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck={ name="Futhark Torque +1", augments={'Path: A',}},
+    waist="Fotia Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Epaminondas's Ring",
+    right_ring="Karieyh Ring +1",
+    back={ name="Ogma's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+5','Weapon skill damage +10%','Damage taken-5%',}},
+}

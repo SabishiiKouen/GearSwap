@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head={ name="Peda. M.Board +3", augments={'Enh. "Altruism" and "Focalization"',}},
+    body={ name="Amalric Doublet +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    hands={ name="Amalric Gages +1", augments={'INT+12','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    legs={ name="Amalric Slops +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    feet={ name="Amalric Nails +1", augments={'Mag. Acc.+20','"Mag.Atk.Bns."+20','"Conserve MP"+7',}},
+    neck={ name="Argute Stole +1", augments={'Path: A',}},
+    waist="Eschan Stone",
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Lugh's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

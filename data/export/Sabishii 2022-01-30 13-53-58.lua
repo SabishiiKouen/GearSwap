@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Amalric Coif", augments={'MP+60','Mag. Acc.+15','"Mag.Atk.Bns."+15',}},
+    body="Zendik Robe",
+    hands="Agwu's Gages",
+    legs="Geomancy Pants +2",
+    feet={ name="Merlinic Crackows", augments={'Mag. Acc.+17 "Mag.Atk.Bns."+17','"Fast Cast"+6','CHR+9','Mag. Acc.+10','"Mag.Atk.Bns."+7',}},
+    neck="Voltsurge Torque",
+    waist="Embla Sash",
+    left_ear="Malignance Earring",
+    right_ear="Enchntr. Earring +1",
+    left_ring="Kishar Ring",
+    right_ring="Lebeche Ring",
+    back={ name="Lifestream Cape", augments={'Geomancy Skill +7','Indi. eff. dur. +15','Pet: Damage taken -2%','Damage taken-3%',}},
+}

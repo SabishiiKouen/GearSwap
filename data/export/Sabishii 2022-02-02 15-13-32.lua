@@ -1,0 +1,16 @@
+sets.exported={
+    sub="Nusku Shield",
+    range={ name="Fomalhaut", augments={'Path: A',}},
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs={ name="Herculean Trousers", augments={'Accuracy+13','Weapon skill damage +4%','DEX+1','Attack+11',}},
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Flume Belt",
+    left_ear="Odnowa Earring +1",
+    right_ear="Infused Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Defending Ring",
+    back={ name="Belenus's Cape", augments={'"Snapshot"+10',}},
+}

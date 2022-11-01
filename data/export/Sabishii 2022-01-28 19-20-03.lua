@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Musa", augments={'Path: C',}},
+    ammo="Pemphredo Tathlum",
+    head={ name="Telchine Cap", augments={'Mag. Evasion+24','Potency of "Cure" effect received+5%','Enh. Mag. eff. dur. +5',}},
+    body={ name="Peda. Gown +3", augments={'Enhances "Enlightenment" effect',}},
+    hands="Arbatel Bracers +1",
+    legs={ name="Telchine Braconi", augments={'Mag. Acc.+6 "Mag.Atk.Bns."+6','Potency of "Cure" effect received+4%','Enh. Mag. eff. dur. +9',}},
+    feet={ name="Telchine Pigaches", augments={'"Mag.Atk.Bns."+8','Potency of "Cure" effect received+5%','Enh. Mag. eff. dur. +7',}},
+    neck="Incanter's Torque",
+    waist="Embla Sash",
+    left_ear="Andoaa Earring",
+    right_ear="Malignance Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back="Perimede Cape",
+}

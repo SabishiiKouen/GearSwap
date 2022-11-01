@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Telchine Cap", augments={'Mag. Evasion+17','Pet: "Regen"+3','"Regen" potency+2',}},
+    body="Nyame Mail",
+    hands="Geo. Mitaines +2",
+    legs={ name="Telchine Braconi", augments={'Mag. Evasion+20','Pet: "Regen"+2','"Regen" potency+2',}},
+    feet={ name="Bagua Sandals +3", augments={'Enhances "Radial Arcana" effect',}},
+    neck={ name="Bagua Charm +2", augments={'Path: A',}},
+    waist="Isa Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Ethereal Earring",
+    left_ring={ name="Dark Ring", augments={'Magic dmg. taken -3%','Breath dmg. taken -5%','Phys. dmg. taken -3%',}},
+    right_ring="Defending Ring",
+    back={ name="Nantosuelta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+10','Pet: "Regen"+10','Pet: "Regen"+5',}},
+}

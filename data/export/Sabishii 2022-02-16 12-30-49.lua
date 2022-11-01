@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Blurred Shield +1",
+    ammo="Staunch Tathlum +1",
+    head={ name="Valorous Mask", augments={'Attack+20','"Store TP"+7','Accuracy+12',}},
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Eabani Earring",
+    right_ear="Infused Earring",
+    left_ring="Karieyh Ring +1",
+    right_ring="Defending Ring",
+    back={ name="Cichol's Mantle", augments={'STR+20','Mag. Acc+10 /Mag. Dmg.+10','Weapon skill damage +10%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Crocea Mors", augments={'Path: C',}},
+    sub="Ammurapi Shield",
+    ammo="Homiliary",
+    head={ name="Viti. Chapeau +3", augments={'Enfeebling Magic duration','Magic Accuracy',}},
+    body="Atrophy Tabard +3",
+    hands={ name="Merlinic Dastanas", augments={'Pet: Attack+6 Pet: Rng.Atk.+6','Attack+2','"Refresh"+1',}},
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet={ name="Amalric Nails +1", augments={'Mag. Acc.+20','"Mag.Atk.Bns."+20','"Conserve MP"+7',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Flume Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Defending Ring",
+    back={ name="Sucellos's Cape", augments={'"Fast Cast"+10','Damage taken-5%',}},
+}

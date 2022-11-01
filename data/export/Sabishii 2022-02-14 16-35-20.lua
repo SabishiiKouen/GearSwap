@@ -1,0 +1,17 @@
+sets.exported={
+    main="Lycurgos",
+    sub="Utu Grip",
+    ammo="Seeth. Bomblet +1",
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck="Fotia Gorget",
+    waist="Orpheus's Sash",
+    left_ear="Ishvara Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Epaminondas's Ring",
+    right_ring="Karieyh Ring +1",
+    back="Lupine Cape",
+}

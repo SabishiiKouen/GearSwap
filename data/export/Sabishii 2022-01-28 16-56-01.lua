@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head="Agwu's Cap",
+    body="Agwu's Robe",
+    hands="Agwu's Gages",
+    legs={ name="Amalric Slops +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    feet={ name="Amalric Nails +1", augments={'Mag. Acc.+20','"Mag.Atk.Bns."+20','"Conserve MP"+7',}},
+    neck={ name="Argute Stole +1", augments={'Path: A',}},
+    waist="Eschan Stone",
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Bookworm's Cape", augments={'INT+1','Helix eff. dur. +19','"Regen" potency+9',}},
+}
